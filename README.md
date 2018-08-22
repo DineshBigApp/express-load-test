@@ -5,14 +5,11 @@ Simple load test api
 
 Reference API
 
-URL: http://localhost:3030/loadtest
 
-METHOD: POST
-
-REQUEST:
+REQUEST Format:
 
 {
-	"url":"http://18.207.54.190:9000/userChat",
+	"url":"your api url",
 	"method":"POST",
 	"request": {
         "mes": "book a flight from bangalore to mumbai",
