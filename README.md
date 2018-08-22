@@ -3,9 +3,6 @@ Simple load test api
 1. clone the repository
 2. npm install
 
-Reference API
-
-
 REQUEST Format:
 
 {
