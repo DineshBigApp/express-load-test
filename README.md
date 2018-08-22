@@ -1,4 +1,4 @@
-Simple load test
+Simple load test api
 
 1. clone the repository
 2. npm install
