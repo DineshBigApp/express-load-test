@@ -4,3 +4,5 @@ Simple load test api
 2. npm install
 
 REQUEST Format:
+
+test
